@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusUtils.cpp.obj": [
+			"ContinuousOverlapSphereComponent.gen.cpp.obj",
+			"OculusDeveloperTelemetry.gen.cpp.obj",
+			"OculusUtils.init.gen.cpp.obj",
+			"OculusUtilsLibrary.gen.cpp.obj",
+			"ContinuousOverlapSphereComponent.cpp.obj",
+			"OculusDeveloperTelemetry.cpp.obj",
+			"OculusUtilsLibrary.cpp.obj",
+			"OculusUtilsModule.cpp.obj"
+		]
+	}
+}

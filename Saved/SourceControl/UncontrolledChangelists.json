@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/VRTemplate/Blueprints/VRGameMode.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/BP_MyChar.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Plugins/OculusHandTools/Content/Hands/HandsCharacterBase.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/Hands/TutorialHandRight.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/Hands/TutorialHandLeft.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/Hands/Models/OculusHand_L.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/Hands/Models/OculusHand_R.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/Hands/Models/HandMat.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/VRSpectator/VRSpectator.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/VRSpectator/RT_VRSpectator.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/VRSpectator/EVRSpectatorMode.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/VRSpectator/Input/IMC_VRSpectator.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/VRSpectator/Input/Actions/IA_VRSpectator_Toggle.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/VRSpectator/Input/Actions/IA_VRSpectator_ResetRotation.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/VRSpectator/Input/Actions/IA_VRSpectator_Move.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/VRSpectator/Input/Actions/IA_VRSpectator_Look.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/VRSpectator/Input/Actions/IA_VRSpectator_FOV_Reset.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/VRSpectator/Input/Actions/IA_VRSpectator_FOV.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/VRSpectator/Input/Actions/IA_VRSpectator_FadeInOut.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/MyBlueprints/BP_MyChar.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/MyBlueprints/Hands/Models/OculusHand_R.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/MyBlueprints/Hands/Models/OculusHand_L_Skeleton.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/MyBlueprints/Hands/Models/OculusHand_R_Skeleton.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/MyBlueprints/Hands/Models/OculusHand_L.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/MyBlueprints/Hands/Models/HandMat.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/MyBlueprints/Hands/TutorialHand.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/Hands/TutorialHand.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/Hands/Models/OculusHand_R_Skeleton.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/Hands/Models/OculusHand_L_Skeleton.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/MyBlueprints/MyMap.umap",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/kutla/Documents/Unreal Projects/MimaR/Content/BP_VRPawn.uasset"
+			]
+		}
+	]
+}

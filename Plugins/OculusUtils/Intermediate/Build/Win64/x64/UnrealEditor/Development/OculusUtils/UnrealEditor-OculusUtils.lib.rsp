@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OculusUtils.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\kutla\Documents\Unreal Projects\Unreal-HandGameplay-main 5.3\Intermediate\Build\Win64\x64\HandGameplayEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\kutla\Documents\Unreal Projects\Unreal-HandGameplay-main 5.3\Plugins\OculusUtils\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusUtils\Module.OculusUtils.cpp.obj"
+"C:\Users\kutla\Documents\Unreal Projects\Unreal-HandGameplay-main 5.3\Plugins\OculusUtils\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusUtils\Default.rc2.res"
+/OUT:"C:\Users\kutla\Documents\Unreal Projects\Unreal-HandGameplay-main 5.3\Plugins\OculusUtils\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusUtils\UnrealEditor-OculusUtils.lib"
